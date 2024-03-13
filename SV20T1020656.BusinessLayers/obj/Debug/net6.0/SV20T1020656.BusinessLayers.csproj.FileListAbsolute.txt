@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\bin\Debug\net6.0\SV20T1020656.BusinessLayers.deps.json
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\bin\Debug\net6.0\SV20T1020656.BusinessLayers.dll
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\bin\Debug\net6.0\SV20T1020656.BusinessLayers.pdb
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\obj\Debug\net6.0\SV20T1020656.BusinessLayers.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\obj\Debug\net6.0\SV20T1020656.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\obj\Debug\net6.0\SV20T1020656.BusinessLayers.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\obj\Debug\net6.0\SV20T1020656.BusinessLayers.AssemblyInfo.cs
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\obj\Debug\net6.0\SV20T1020656.BusinessLayers.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\obj\Debug\net6.0\SV20T1020656.BusinessLayers.dll
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\obj\Debug\net6.0\refint\SV20T1020656.BusinessLayers.dll
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\obj\Debug\net6.0\SV20T1020656.BusinessLayers.pdb
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\obj\Debug\net6.0\ref\SV20T1020656.BusinessLayers.dll
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\bin\Debug\net6.0\SV20T1020656.DataLayers.dll
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\bin\Debug\net6.0\SV20T1020656.DomainModels.dll
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\bin\Debug\net6.0\SV20T1020656.DataLayers.pdb
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\bin\Debug\net6.0\SV20T1020656.DomainModels.pdb
+C:\Users\ACER\source\repos\SV20T1020656.Web\SV20T1020656.BusinessLayers\obj\Debug\net6.0\SV20T1020656.BusinessLayers.csproj.CopyComplete
